@@ -12,6 +12,7 @@ Nossx ~~guru do backend~~ equipe quer que você desenvolva SÓ dois serviços. S
 
 2. Serviço de pacientes ~~Sim, também achei migxs.~~
 
+<br/>
 
 #### Serviço de médicos:
 - Deve ser possível consultar consultas marcadas por médico;
