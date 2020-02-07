@@ -4,7 +4,7 @@
 ##### Leia com calma e quantas vezes quiser para que não deixar passar nada.
 ##### E vem com o pai que você passa de ano... :P
 
-Nossxs ~~gurus do backend~~ quer que você desenvolva SÓ dois serviços. Sem exageros. Dois tá bom!
+Nossx ~~guru do backend~~ equipe quer que você desenvolva SÓ dois serviços. Sem exageros. Dois tá bom!
 <br/>
 
 1. Serviço de médicos ~~Nossa que previsivel, né?~~
