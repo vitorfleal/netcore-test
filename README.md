@@ -46,8 +46,11 @@ Nossx ~~guru do backend~~ equipe quer que você desenvolva SÓ dois serviços. S
 <br/>
 
 *Dê o seu melhor.*
+
 *Code como você gostaria de trabalhar*
+
 *Faça um projeto que você se orgulhe*
+
 *Venha preparado para as perguntas que faremos sobre o seu projeto porque nós gostamos de falar sobre código e arquitetura ;)*
 
 <br/>
