@@ -1,12 +1,14 @@
 # netcore-test
 
 ## Bem vindx ao teste de backend do Albert Einstein!
-#####  *Leia com calma e quantas vezes quiser para que não deixar passar nada.*
-##### *E vem com o pai que você passa de ano... :P*
+##### Leia com calma e quantas vezes quiser para que não deixar passar nada.
+##### E vem com o pai que você passa de ano... :P
 <br/>
 Nossx ~~guru do backend~~ equipe quer que você desenvolva SÓ dois serviços. Sem exageros. Dois tá bom!
+<br/>
 1. Serviço de médicos ~~Nossa que previsivel, né?~~
 2. Serviço de pacientes ~~Sim, também achei migxs.~~
+<br/>
 ###### Serviço de médicos:
 - Deve ser possível consultar consultas marcadas por médico;
 - Deve ser possível marcar consultas;
