@@ -37,6 +37,7 @@ Nossx ~~guru do backend~~ equipe quer que você desenvolva SÓ dois serviços. S
 <br/>
 
 #### Se por acaso você terminar em tempo record e quiser se destacar (opcionais):
+- Avalie a concorrência na criação de consultas ou exames;
 - Usar containers Docker;
 - Criar um módulo de exames, onde pode solicitar exames e o paciente deve ser avisado da solicitação;
 - Fazer log do que acontece nos módulos;
