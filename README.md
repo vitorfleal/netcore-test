@@ -30,6 +30,7 @@ Nossx ~~guru do backend~~ equipe quer que você desenvolva SÓ dois serviços. S
 #### O que esperamos que você não esqueça de usar (requisitos):
 - Deve ser desenvolvido em C# .net Core *(fala sério, show de bola né)*;
 - Os dados devem ser persistidos em banco de dados MSSQL Server;
+- O acesso a dados deve ser feito utilizando o Entity Framework Core;
 - Utilize os padrões que você se sentir mais confortável mas mantenha o código limpo *(Queremos que você faça o teste como você gostaria de trabalhar)*;
 - Utilize os princípios SOLID;
 - Teste seu código, desenvolva testes usando as técnicas em que estiver mais familiarizado *(Não precisa inventar moda pra fazer bonito, faça bonito com o que você sabe ;D)*.
