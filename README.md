@@ -1,25 +1,46 @@
-# netcore-test
+## Instruções
 
-## Bem vindx ao teste de backend do Albert Einstein!
-##### Leia com calma e quantas vezes quiser para que não deixar passar nada.
-##### E vem com o pai que você passa de ano... :P
+Necessário antes de rodar a aplicação, abrir o projeto e executar os commandos da migration no Package Manager Console para criar o banco de dados e as tabelas. Segue os comandos abaixo:
 
-<br/>
+## Comando para criar migration: 
 
-Nossx ~~guru do backend~~ equipe quer que você desenvolva SÓ dois serviços. Sem exageros. Dois tá bom!
+add-migration nomeDaMigration. 
+Exemplo: add-migration primeiraMigration</p>
 
-1. Serviço de médicos ~~Nossa que previsivel, né?~~
+## Comando para criar bancos e tabelas: 
 
-2. Serviço de pacientes ~~Sim, também achei migxs.~~
+update-database
 
-<br/>
+A connection atring está configurada para o banco de dados local. Segue a connection string: "Server=.;Database=AlbertEinsteinTesteContext;Trusted_Connection=True;MultipleActiveResultSets=true"
 
-#### Serviço de médicos:
-- Deve ser possível consultar consultas marcadas por médico;
-- Deve ser possível marcar consultas;
-- O serviço não deve permitir marcar consultas com o mesmo médico no mesmo horário;
+Caso não queria criar o banco de dados via migrations, rodar o script sql.
 
-<br/>
+## Endpoints Serviço de Paciente
+            
+Funções: Obter Consultas por Paciente, Cadastrar, Atualizar e Excluir Paciente 
+            
+## Endpoints Serviço de Médico
+
+Funções: Obter Médico por Id, Obter Médicos, Cadastrar, Atualizar e Excluir Médico
+
+## Endpoints Serviço de Consulta
+
+Funções: Obter Consultas por nome do Médico e Agendar Consulta
+
+A API foi desenvolvida com o intuito de servir como referência no desenvolvimento de soluções com DotNET Core.
+A mesma contempla as seguintes tecnologias:
+1. DotNET Core 3.1
+2. EntityFramework Core
+3. Dapper
+4. FluentValidation
+5. Swagger
+6. AutoMapper
+7. Serilog
+
+
+Qualquer dúvida enviar um e-mail para vitorfleal@hotmail.com
+
+
 
 #### Serviço de pacientes:
 - Deve ser possível marcar consultas, através do módulo de médicos;
@@ -60,3 +81,4 @@ Nossx ~~guru do backend~~ equipe quer que você desenvolva SÓ dois serviços. S
 *Faça fork deste repositório para vermos seu processo de desenvolvimento*
 
 **BOA SORTE!**
+
