@@ -11,7 +11,7 @@ Exemplo: add-migration primeiraMigration</p>
 
 update-database
 
-A connection atring está configurada para o banco de dados local. Segue a connection string: "Server=.;Database=AlbertEinsteinTesteContext;Trusted_Connection=True;MultipleActiveResultSets=true"
+A connection atring está configurada para o banco de dados local. Segue a connection string: "Server=.;Database=health-system;Trusted_Connection=True;MultipleActiveResultSets=true"
 
 Caso não queria criar o banco de dados via migrations, rodar o script sql.
 
