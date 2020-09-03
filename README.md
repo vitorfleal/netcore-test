@@ -27,8 +27,7 @@ Funções: Obter Médico por Id, Obter Médicos, Cadastrar, Atualizar e Excluir 
 
 Funções: Obter Consultas por nome do Médico e Agendar Consulta
 
-A API foi desenvolvida com o intuito de servir como referência no desenvolvimento de soluções com DotNET Core.
-A mesma contempla as seguintes tecnologias:
+## Tecnologias embarcadas:
 1. DotNET Core 3.1
 2. EntityFramework Core
 3. Dapper
@@ -41,6 +40,28 @@ A mesma contempla as seguintes tecnologias:
 Qualquer dúvida enviar um e-mail para vitorfleal@hotmail.com
 
 
+# netcore-test
+
+## Bem vindx ao teste de backend do Albert Einstein!
+##### Leia com calma e quantas vezes quiser para que não deixar passar nada.
+##### E vem com o pai que você passa de ano... :P
+
+<br/>
+
+Nossx ~~guru do backend~~ equipe quer que você desenvolva SÓ dois serviços. Sem exageros. Dois tá bom!
+
+1. Serviço de médicos ~~Nossa que previsivel, né?~~
+
+2. Serviço de pacientes ~~Sim, também achei migxs.~~
+
+<br/>
+
+#### Serviço de médicos:
+- Deve ser possível consultar consultas marcadas por médico;
+- Deve ser possível marcar consultas;
+- O serviço não deve permitir marcar consultas com o mesmo médico no mesmo horário;
+
+<br/>
 
 #### Serviço de pacientes:
 - Deve ser possível marcar consultas, através do módulo de médicos;
@@ -81,4 +102,3 @@ Qualquer dúvida enviar um e-mail para vitorfleal@hotmail.com
 *Faça fork deste repositório para vermos seu processo de desenvolvimento*
 
 **BOA SORTE!**
-
